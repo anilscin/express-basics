@@ -1,9 +1,7 @@
 # Express Basics
 
-This repository explores the fundamental concepts of Express.js, a web application framework for Node.js.
-
 ## Overview
-Learn how to create web applications using Express.js, handle routing, middleware, and integrate with databases.
+This repository explores the fundamental concepts of Express.js, a web application framework for Node.js.
 
 ## Features
 - Basic routing
